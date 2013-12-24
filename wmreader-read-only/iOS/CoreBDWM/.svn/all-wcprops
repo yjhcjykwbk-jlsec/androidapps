@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/iOS/CoreBDWM
+END
+BDWMPopular.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/iOS/CoreBDWM/BDWMPopular.h
+END
+BDWMArticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/iOS/CoreBDWM/BDWMArticle.h
+END
+BDWMBoardlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/iOS/CoreBDWM/BDWMBoardlist.h
+END
+Helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/iOS/CoreBDWM/Helper.h
+END
+BDWMPopular.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/iOS/CoreBDWM/BDWMPopular.m
+END
+BDWMBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/iOS/CoreBDWM/BDWMBoard.h
+END
+BDWMBoardlist.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/iOS/CoreBDWM/BDWMBoardlist.m
+END
+BDWMArticle.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/iOS/CoreBDWM/BDWMArticle.m
+END
+Helper.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/iOS/CoreBDWM/Helper.m
+END
+BDWMBoard.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/iOS/CoreBDWM/BDWMBoard.m
+END

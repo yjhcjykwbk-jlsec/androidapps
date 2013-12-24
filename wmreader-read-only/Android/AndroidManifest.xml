@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="net.bdwm"
+          android:versionCode="3"
+          android:versionName="0.3">
+          <uses-permission android:name="android.permission.INTERNET" />
+    
+    <application android:icon="@drawable/icon" android:label="未名阅读器">
+        <activity android:name=".MenuActivity" android:configChanges="orientation|keyboardHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".PopularActivity" android:configChanges="orientation|keyboardHidden" />
+        <activity android:name=".BoardlistActivity" android:configChanges="orientation|keyboardHidden" />
+        <activity android:name=".FavoriteActivity" android:configChanges="orientation|keyboardHidden" />
+        <activity android:name=".ConfigActivity" android:configChanges="orientation|keyboardHidden" />
+        <activity android:name=".AboutActivity" android:configChanges="orientation|keyboardHidden" />
+        <activity android:name=".ArticleActivity" android:configChanges="orientation|keyboardHidden" />
+        <activity android:name=".AttachmentActivity" android:configChanges="orientation|keyboardHidden" />
+        <activity android:name=".BoardActivity" android:configChanges="orientation|keyboardHidden" />
+        <activity android:name=".SelectActivity" android:configChanges="orientation|keyboardHidden" />
+    </application>
+    
+</manifest>

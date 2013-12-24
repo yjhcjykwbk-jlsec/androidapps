@@ -1,0 +1,43 @@
+10
+
+dir
+5
+http://wmreader.googlecode.com/svn/trunk/Android/res
+http://wmreader.googlecode.com/svn
+
+
+
+2011-10-14T03:12:15.899055Z
+4
+urlishardtofetch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9d404bd8-6687-f961-c4b3-b378856a5437
+
+values
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+

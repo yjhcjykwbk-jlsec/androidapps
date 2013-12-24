@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5/trunk/Android/src/net/bdwm/Utility
+END
+ConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/Utility/ConfigManager.java
+END
+AsyncHTTPDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/Utility/AsyncHTTPDelegate.java
+END
+CustomArrayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/Utility/CustomArrayAdapter.java
+END
+AsyncHTTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/Android/src/net/bdwm/Utility/AsyncHTTP.java
+END

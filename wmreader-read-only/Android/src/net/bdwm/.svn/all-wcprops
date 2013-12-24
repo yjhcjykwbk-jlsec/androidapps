@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5/trunk/Android/src/net/bdwm
+END
+PopularActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/PopularActivity.java
+END
+ArticleActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/Android/src/net/bdwm/ArticleActivity.java
+END
+BoardlistActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/BoardlistActivity.java
+END
+MenuActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/MenuActivity.java
+END
+ConfigActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/ConfigActivity.java
+END
+BoardActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/BoardActivity.java
+END
+AttachmentActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/AttachmentActivity.java
+END
+AboutActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/Android/src/net/bdwm/AboutActivity.java
+END
+SelectActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/SelectActivity.java
+END
+FavoriteActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/FavoriteActivity.java
+END

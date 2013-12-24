@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/CoreBDWM
+END
+Helper.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/CoreBDWM/Helper.java
+END
+BDWMBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/CoreBDWM/BDWMBoard.java
+END
+BDWMPopular.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/CoreBDWM/BDWMPopular.java
+END
+BDWMBoardlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/CoreBDWM/BDWMBoardlist.java
+END
+BDWMArticle.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/Android/src/net/bdwm/CoreBDWM/BDWMArticle.java
+END
